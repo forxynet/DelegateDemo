@@ -24,7 +24,7 @@ namespace DelegateDemo {
             //calling non static through object
             ad(100,100);
 
-            string greetingMessage = gd("Bismillah");
+            string greetingMessage = gd("test");
 
             Console.WriteLine(greetingMessage);
             Console.ReadKey();
